@@ -1,0 +1,149 @@
+C:\Users\CARRASCO\AppData\Local\Temporary Projects\Copy Express\bin\Debug\Copy Express.exe.config
+C:\Users\CARRASCO\AppData\Local\Temporary Projects\Copy Express\bin\Debug\Copy Express.exe
+C:\Users\CARRASCO\AppData\Local\Temporary Projects\Copy Express\bin\Debug\Copy Express.pdb
+C:\Users\CARRASCO\AppData\Local\Temporary Projects\Copy Express\bin\Debug\Copy Express.xml
+C:\Users\CARRASCO\AppData\Local\Temporary Projects\Copy Express\obj\Debug\Copy_Express.Form1.resources
+C:\Users\CARRASCO\AppData\Local\Temporary Projects\Copy Express\obj\Debug\Copy_Express.Resources.resources
+C:\Users\CARRASCO\AppData\Local\Temporary Projects\Copy Express\obj\Debug\Copy Express.vbproj.GenerateResource.Cache
+C:\Users\CARRASCO\AppData\Local\Temporary Projects\Copy Express\obj\Debug\Copy Express.exe
+C:\Users\CARRASCO\AppData\Local\Temporary Projects\Copy Express\obj\Debug\Copy Express.xml
+C:\Users\CARRASCO\AppData\Local\Temporary Projects\Copy Express\obj\Debug\Copy Express.pdb
+C:\Users\CARRASCO\AppData\Local\Temporary Projects\Copy Express\obj\Debug\Copy_Express.ControlAcceso.resources
+C:\Users\CARRASCO\Desktop\Copy Express\Copy Express\Copy Express\bin\Debug\Copy Express.exe.config
+C:\Users\CARRASCO\Desktop\Copy Express\Copy Express\Copy Express\obj\Debug\Copy Express.exe
+C:\Users\CARRASCO\Desktop\Copy Express\Copy Express\Copy Express\obj\Debug\Copy Express.xml
+C:\Users\CARRASCO\Desktop\Copy Express\Copy Express\Copy Express\obj\Debug\Copy Express.pdb
+C:\Users\CARRASCO\Desktop\Copy Express\Copy Express\Copy Express\bin\Debug\Copy Express.exe
+C:\Users\CARRASCO\Desktop\Copy Express\Copy Express\Copy Express\bin\Debug\Copy Express.pdb
+C:\Users\CARRASCO\Desktop\Copy Express\Copy Express\Copy Express\bin\Debug\Copy Express.xml
+C:\Users\CARRASCO\Desktop\Copy Express\Copy Express\Copy Express\obj\Debug\Copy_Express.ControlAcceso.resources
+C:\Users\CARRASCO\Desktop\Copy Express\Copy Express\Copy Express\obj\Debug\Copy_Express.Form1.resources
+C:\Users\CARRASCO\Desktop\Copy Express\Copy Express\Copy Express\obj\Debug\Copy_Express.Resources.resources
+C:\Users\CARRASCO\Desktop\Copy Express\Copy Express\Copy Express\obj\Debug\Copy Express.vbproj.GenerateResource.Cache
+C:\Users\CARRASCO\Desktop\Copy Express\Copy Express\Copy Express\obj\Debug\Copy_Express.BarraDeProgreso.resources
+C:\Users\CARRASCO\Desktop\Copy Express\Copy Express\Copy Express\obj\Debug\Copy_Express.Principal.resources
+C:\Users\CARRASCO\Desktop\Copy Express\Copy Express\Copy Express\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\CARRASCO\Desktop\Copy Express\Copy Express\Copy Express\bin\Debug\CircularProgressBar.dll
+C:\Users\CARRASCO\Desktop\Copy Express\Copy Express\Copy Express\bin\Debug\CircularProgressBar.xml
+C:\Users\CARRASCO\Desktop\Copy Express\Copy Express\Copy Express\obj\Debug\Copy_Express.Productos.resources
+C:\Users\CARRASCO\Desktop\Copy Express\Copy Express\Copy Express\obj\Debug\Copy_Express.Inicio.resources
+E:\_\Copy Express\Copy Express\Copy Express\bin\Debug\Copy Express.exe.config
+E:\_\Copy Express\Copy Express\Copy Express\obj\Debug\Copy Express.exe
+E:\_\Copy Express\Copy Express\Copy Express\obj\Debug\Copy Express.xml
+E:\_\Copy Express\Copy Express\Copy Express\obj\Debug\Copy Express.pdb
+E:\_\Copy Express\Copy Express\Copy Express\bin\Debug\Copy Express.exe
+E:\_\Copy Express\Copy Express\Copy Express\bin\Debug\Copy Express.pdb
+E:\_\Copy Express\Copy Express\Copy Express\bin\Debug\Copy Express.xml
+E:\_\Copy Express\Copy Express\Copy Express\bin\Debug\CircularProgressBar.xml
+E:\_\Copy Express\Copy Express\Copy Express\obj\Debug\Copy Express.vbprojResolveAssemblyReference.cache
+E:\_\Copy Express\Copy Express\Copy Express\obj\Debug\Copy_Express.BarraDeProgreso.resources
+E:\_\Copy Express\Copy Express\Copy Express\obj\Debug\Copy_Express.ControlAcceso.resources
+E:\_\Copy Express\Copy Express\Copy Express\obj\Debug\Copy_Express.Form1.resources
+E:\_\Copy Express\Copy Express\Copy Express\obj\Debug\Copy_Express.Inicio.resources
+E:\_\Copy Express\Copy Express\Copy Express\obj\Debug\Copy_Express.Resources.resources
+E:\_\Copy Express\Copy Express\Copy Express\obj\Debug\Copy_Express.Principal.resources
+E:\_\Copy Express\Copy Express\Copy Express\obj\Debug\Copy_Express.Productos.resources
+E:\_\Copy Express\Copy Express\Copy Express\obj\Debug\Copy Express.vbproj.GenerateResource.Cache
+F:\_\Copy Express\Copy Express\Copy Express\bin\Debug\Copy Express.exe.config
+F:\_\Copy Express\Copy Express\Copy Express\obj\Debug\Copy Express.exe
+F:\_\Copy Express\Copy Express\Copy Express\obj\Debug\Copy Express.xml
+F:\_\Copy Express\Copy Express\Copy Express\obj\Debug\Copy Express.pdb
+C:\Users\CARRASCO\Desktop\Copy Express\Copy Express\Copy Express\obj\Debug\Copy Express.vbprojResolveAssemblyReference.cache
+C:\Users\CARRASCO\Desktop\Copy Express\Copy Express\Copy Express\obj\Debug\Copy_Express.Datos.resources
+D:\Copy Express\Copy Express\Copy Express\bin\Debug\Copy Express.exe.config
+D:\Copy Express\Copy Express\Copy Express\obj\Debug\Copy Express.exe
+D:\Copy Express\Copy Express\Copy Express\obj\Debug\Copy Express.xml
+D:\Copy Express\Copy Express\Copy Express\obj\Debug\Copy Express.pdb
+C:\Users\CARRASCO\Desktop\Copy Express\Copy Express\bin\Debug\Copy Express.exe.config
+C:\Users\CARRASCO\Desktop\Copy Express\Copy Express\obj\Debug\Copy Express.exe
+C:\Users\CARRASCO\Desktop\Copy Express\Copy Express\obj\Debug\Copy Express.xml
+C:\Users\CARRASCO\Desktop\Copy Express\Copy Express\obj\Debug\Copy Express.pdb
+C:\Users\CARRASCO\Desktop\Copy Express\Copy Express\bin\Debug\CopExpress.accdb
+C:\Users\CARRASCO\Desktop\Copy Express\Copy Express\bin\Debug\Copy Express.exe
+C:\Users\CARRASCO\Desktop\Copy Express\Copy Express\bin\Debug\Copy Express.pdb
+C:\Users\CARRASCO\Desktop\Copy Express\Copy Express\bin\Debug\Copy Express.xml
+C:\Users\CARRASCO\Desktop\Copy Express\Copy Express\bin\Debug\CircularProgressBar.xml
+C:\Users\CARRASCO\Desktop\Copy Express\Copy Express\obj\Debug\Copy Express.vbprojResolveAssemblyReference.cache
+C:\Users\CARRASCO\Desktop\Copy Express\Copy Express\obj\Debug\Copy_Express.BarraDeProgreso.resources
+C:\Users\CARRASCO\Desktop\Copy Express\Copy Express\obj\Debug\Copy_Express.ControlAcceso.resources
+C:\Users\CARRASCO\Desktop\Copy Express\Copy Express\obj\Debug\Copy_Express.Datos.resources
+C:\Users\CARRASCO\Desktop\Copy Express\Copy Express\obj\Debug\Copy_Express.Form1.resources
+C:\Users\CARRASCO\Desktop\Copy Express\Copy Express\obj\Debug\Copy_Express.Inicio.resources
+C:\Users\CARRASCO\Desktop\Copy Express\Copy Express\obj\Debug\Copy_Express.Resources.resources
+C:\Users\CARRASCO\Desktop\Copy Express\Copy Express\obj\Debug\Copy_Express.Principal.resources
+C:\Users\CARRASCO\Desktop\Copy Express\Copy Express\obj\Debug\Copy_Express.Productos.resources
+C:\Users\CARRASCO\Desktop\Copy Express\Copy Express\obj\Debug\Copy Express.vbproj.GenerateResource.Cache
+C:\Users\CARRASCO\Desktop\Copy Express\Copy Express\obj\Debug\Copy_Express.Factura.resources
+C:\Users\CARRASCO\Desktop\Copy Express\Copy Express\obj\Debug\Copy_Express.General.resources
+C:\Users\CARRASCO\Desktop\Copy Express\Copy Express\obj\Debug\Copy_Express.Individual.resources
+C:\Users\CARRASCO\Desktop\Copy Express\Copy Express\obj\Debug\Copy_Express.Invetario.resources
+F:\Copy Express\Copy Express\bin\Debug\Copy Express.exe.config
+F:\Copy Express\Copy Express\obj\Debug\Copy Express.exe
+F:\Copy Express\Copy Express\obj\Debug\Copy Express.xml
+F:\Copy Express\Copy Express\obj\Debug\Copy Express.pdb
+F:\Copy Express\Copy Express\bin\Debug\CopExpress.accdb
+F:\Copy Express\Copy Express\bin\Debug\Copy Express.exe
+F:\Copy Express\Copy Express\bin\Debug\Copy Express.pdb
+F:\Copy Express\Copy Express\bin\Debug\Copy Express.xml
+F:\Copy Express\Copy Express\bin\Debug\CircularProgressBar.xml
+F:\Copy Express\Copy Express\obj\Debug\Copy Express.vbprojResolveAssemblyReference.cache
+F:\Copy Express\Copy Express\obj\Debug\Copy_Express.BarraDeProgreso.resources
+F:\Copy Express\Copy Express\obj\Debug\Copy_Express.ControlAcceso.resources
+F:\Copy Express\Copy Express\obj\Debug\Copy_Express.Datos.resources
+F:\Copy Express\Copy Express\obj\Debug\Copy_Express.Factura.resources
+F:\Copy Express\Copy Express\obj\Debug\Copy_Express.Form1.resources
+F:\Copy Express\Copy Express\obj\Debug\Copy_Express.General.resources
+F:\Copy Express\Copy Express\obj\Debug\Copy_Express.Individual.resources
+F:\Copy Express\Copy Express\obj\Debug\Copy_Express.Inicio.resources
+F:\Copy Express\Copy Express\obj\Debug\Copy_Express.Invetario.resources
+F:\Copy Express\Copy Express\obj\Debug\Copy_Express.Resources.resources
+F:\Copy Express\Copy Express\obj\Debug\Copy_Express.Principal.resources
+F:\Copy Express\Copy Express\obj\Debug\Copy_Express.Productos.resources
+F:\Copy Express\Copy Express\obj\Debug\Copy Express.vbproj.GenerateResource.Cache
+C:\Users\CARRASCO\Desktop\Programacion\Copy Express\Copy Express\bin\Debug\Copy Express.exe.config
+C:\Users\CARRASCO\Desktop\Programacion\Copy Express\Copy Express\obj\Debug\Copy Express.exe
+C:\Users\CARRASCO\Desktop\Programacion\Copy Express\Copy Express\obj\Debug\Copy Express.xml
+C:\Users\CARRASCO\Desktop\Programacion\Copy Express\Copy Express\obj\Debug\Copy Express.pdb
+C:\Users\CARRASCO\Desktop\Programacion\Copy Express\Copy Express\bin\Debug\CopExpress.accdb
+C:\Users\CARRASCO\Desktop\Programacion\Copy Express\Copy Express\bin\Debug\Copy Express.exe
+C:\Users\CARRASCO\Desktop\Programacion\Copy Express\Copy Express\bin\Debug\Copy Express.pdb
+C:\Users\CARRASCO\Desktop\Programacion\Copy Express\Copy Express\bin\Debug\Copy Express.xml
+C:\Users\CARRASCO\Desktop\Programacion\Copy Express\Copy Express\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\CARRASCO\Desktop\Programacion\Copy Express\Copy Express\bin\Debug\CircularProgressBar.xml
+C:\Users\CARRASCO\Desktop\Programacion\Copy Express\Copy Express\obj\Debug\Copy Express.vbprojResolveAssemblyReference.cache
+C:\Users\CARRASCO\Desktop\Programacion\Copy Express\Copy Express\obj\Debug\Copy_Express.BarraDeProgreso.resources
+C:\Users\CARRASCO\Desktop\Programacion\Copy Express\Copy Express\obj\Debug\Copy_Express.ControlAcceso.resources
+C:\Users\CARRASCO\Desktop\Programacion\Copy Express\Copy Express\obj\Debug\Copy_Express.Datos.resources
+C:\Users\CARRASCO\Desktop\Programacion\Copy Express\Copy Express\obj\Debug\Copy_Express.Factura.resources
+C:\Users\CARRASCO\Desktop\Programacion\Copy Express\Copy Express\obj\Debug\Copy_Express.Form1.resources
+C:\Users\CARRASCO\Desktop\Programacion\Copy Express\Copy Express\obj\Debug\Copy_Express.General.resources
+C:\Users\CARRASCO\Desktop\Programacion\Copy Express\Copy Express\obj\Debug\Copy_Express.Individual.resources
+C:\Users\CARRASCO\Desktop\Programacion\Copy Express\Copy Express\obj\Debug\Copy_Express.Inicio.resources
+C:\Users\CARRASCO\Desktop\Programacion\Copy Express\Copy Express\obj\Debug\Copy_Express.Invetario.resources
+C:\Users\CARRASCO\Desktop\Programacion\Copy Express\Copy Express\obj\Debug\Copy_Express.Resources.resources
+C:\Users\CARRASCO\Desktop\Programacion\Copy Express\Copy Express\obj\Debug\Copy_Express.Principal.resources
+C:\Users\CARRASCO\Desktop\Programacion\Copy Express\Copy Express\obj\Debug\Copy_Express.Productos.resources
+C:\Users\CARRASCO\Desktop\Programacion\Copy Express\Copy Express\obj\Debug\Copy Express.vbproj.GenerateResource.Cache
+C:\Users\CARRASCO\Documents\Copy Express\Copy Express\bin\Debug\Copy Express.exe.config
+C:\Users\CARRASCO\Documents\Copy Express\Copy Express\obj\Debug\Copy Express.exe
+C:\Users\CARRASCO\Documents\Copy Express\Copy Express\obj\Debug\Copy Express.xml
+C:\Users\CARRASCO\Documents\Copy Express\Copy Express\obj\Debug\Copy Express.pdb
+C:\Users\CARRASCO\Documents\Copy Express\Copy Express\bin\Debug\CopExpress.accdb
+C:\Users\CARRASCO\Documents\Copy Express\Copy Express\bin\Debug\Copy Express.exe
+C:\Users\CARRASCO\Documents\Copy Express\Copy Express\bin\Debug\Copy Express.pdb
+C:\Users\CARRASCO\Documents\Copy Express\Copy Express\bin\Debug\Copy Express.xml
+C:\Users\CARRASCO\Documents\Copy Express\Copy Express\bin\Debug\CircularProgressBar.xml
+C:\Users\CARRASCO\Documents\Copy Express\Copy Express\obj\Debug\Copy Express.vbprojResolveAssemblyReference.cache
+C:\Users\CARRASCO\Documents\Copy Express\Copy Express\obj\Debug\Copy_Express.BarraDeProgreso.resources
+C:\Users\CARRASCO\Documents\Copy Express\Copy Express\obj\Debug\Copy_Express.ControlAcceso.resources
+C:\Users\CARRASCO\Documents\Copy Express\Copy Express\obj\Debug\Copy_Express.Datos.resources
+C:\Users\CARRASCO\Documents\Copy Express\Copy Express\obj\Debug\Copy_Express.Factura.resources
+C:\Users\CARRASCO\Documents\Copy Express\Copy Express\obj\Debug\Copy_Express.Form1.resources
+C:\Users\CARRASCO\Documents\Copy Express\Copy Express\obj\Debug\Copy_Express.General.resources
+C:\Users\CARRASCO\Documents\Copy Express\Copy Express\obj\Debug\Copy_Express.Individual.resources
+C:\Users\CARRASCO\Documents\Copy Express\Copy Express\obj\Debug\Copy_Express.Inicio.resources
+C:\Users\CARRASCO\Documents\Copy Express\Copy Express\obj\Debug\Copy_Express.Invetario.resources
+C:\Users\CARRASCO\Documents\Copy Express\Copy Express\obj\Debug\Copy_Express.Resources.resources
+C:\Users\CARRASCO\Documents\Copy Express\Copy Express\obj\Debug\Copy_Express.Principal.resources
+C:\Users\CARRASCO\Documents\Copy Express\Copy Express\obj\Debug\Copy_Express.Productos.resources
+C:\Users\CARRASCO\Documents\Copy Express\Copy Express\obj\Debug\Copy Express.vbproj.GenerateResource.Cache

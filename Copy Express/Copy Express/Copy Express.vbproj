@@ -1,0 +1,307 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7F561724-CE66-49B4-BA54-E53F73A96BC2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Copy_Express.My.MyApplication</StartupObject>
+    <RootNamespace>Copy_Express</RootNamespace>
+    <AssemblyName>Copy Express</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Copy Express.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Copy Express.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>..\..\..\..\Downloads\Bunifu_UI_v1.5.3\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="CircularProgressBar">
+      <HintPath>..\..\..\..\Downloads\ProgressLingkar\packages\CircularProgressBar.2.2.0.0\lib\net35-Client\CircularProgressBar.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BarraDeProgreso.Designer.vb">
+      <DependentUpon>BarraDeProgreso.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BarraDeProgreso.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ControlAcceso.Designer.vb">
+      <DependentUpon>ControlAcceso.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ControlAcceso.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CopExpressDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CopExpressDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CopExpressDataSet.vb">
+      <DependentUpon>CopExpressDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Datos.Designer.vb">
+      <DependentUpon>Datos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Datos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Factura.Designer.vb">
+      <DependentUpon>Factura.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Factura.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="General.Designer.vb">
+      <DependentUpon>General.vb</DependentUpon>
+    </Compile>
+    <Compile Include="General.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Individual.Designer.vb">
+      <DependentUpon>Individual.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Individual.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inicio.Designer.vb">
+      <DependentUpon>Inicio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Inicio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Invetario.Designer.vb">
+      <DependentUpon>Invetario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Invetario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Principal.Designer.vb">
+      <DependentUpon>Principal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Principal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Productos.Designer.vb">
+      <DependentUpon>Productos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Productos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="BarraDeProgreso.resx">
+      <DependentUpon>BarraDeProgreso.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ControlAcceso.resx">
+      <DependentUpon>ControlAcceso.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Datos.resx">
+      <DependentUpon>Datos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Factura.resx">
+      <DependentUpon>Factura.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="General.resx">
+      <DependentUpon>General.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Individual.resx">
+      <DependentUpon>Individual.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inicio.resx">
+      <DependentUpon>Inicio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Invetario.resx">
+      <DependentUpon>Invetario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal.resx">
+      <DependentUpon>Principal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Productos.resx">
+      <DependentUpon>Productos.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="CopExpressDataSet.xsc">
+      <DependentUpon>CopExpressDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="CopExpressDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CopExpressDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CopExpressDataSet.xss">
+      <DependentUpon>CopExpressDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home-icon-silhouette.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3d-printing-software.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shopping-cart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shopping-list.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LogoSample_ByTailorBrands.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free_horizontal_on_white_by_logaster.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LogoCP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LogoCP1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LogoCP2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maximize.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Minimize.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Normal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono-cliente.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="CopExpress.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\users %282%29.png" />
+    <None Include="Resources\loading.png" />
+    <None Include="Resources\instagram.png" />
+    <None Include="Resources\youtube.png" />
+    <None Include="Resources\twitter.png" />
+    <None Include="Resources\facebook-logo %281%29.png" />
+    <None Include="Resources\puzzle-piece-silhouette.png" />
+    <None Include="Resources\stationery.png" />
+    <None Include="Resources\icon cerrar21.png" />
+    <None Include="Resources\icon cerrar2.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

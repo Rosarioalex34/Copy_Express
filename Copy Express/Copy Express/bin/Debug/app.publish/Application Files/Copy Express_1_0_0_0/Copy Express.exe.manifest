@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Copy Express.exe" version="1.0.0.0" publicKeyToken="f44d3d6c468e9a4d" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="books.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Copy Express" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Copy Express.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Opciones del manifiesto de Control de cuentas de usuario
+          Si desea cambiar el nivel de Control de cuentas de usuario de Windows, reemplace el 
+          nodo requestedExecutionLevel por alguno de los siguientes.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Si desea usar la virtualización de archivos y del Registro para la 
+         compatibilidad con versiones anteriores, elimine el nodo requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.VisualBasic.PowerPacks.Vs" version="10.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Bunifu_UI_v1.5.3.dll" size="242176">
+      <assemblyIdentity name="Bunifu_UI_v1.5.3" version="1.5.3.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>8bPg8nUKkQPkampKNPHPnRd3lyX5gELMJHXsZkhIAc8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CircularProgressBar.dll" size="14336">
+      <assemblyIdentity name="CircularProgressBar" version="2.2.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>7iw5NLlOID9Qpc6NpnSSA2f4y533KSxFxGyENDQHCxs=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Copy Express.exe" size="412672">
+      <assemblyIdentity name="Copy Express" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>Vw5ta16uhvgLEBhLU9DAM9KNss6Q5oVLRADtFjo7rDc=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="es\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll" size="65128">
+      <assemblyIdentity name="Microsoft.VisualBasic.PowerPacks.Vs.resources" version="10.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="es" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>QjXo/oxJjWPp0n/EL8Jjl6a068+OXkSoZPUSenNf+Hk=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="books.ico" size="2462">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>EFRvmkb/fZwvXAxNOT8Nfrca1N5RMWdEZJ4ERzX+Jj0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CopExpress.accdb" size="401408">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>IEqrc39o8vcHHxgrQttLKlZNPx3UiKUbt277Pw6hk7E=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Copy Express.exe.config" size="517">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>gPdMocITBnDxfpRiC/U0Niwob+Mm2hLhGb/ahapmJJk=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=CARRASCO\CARRASCO" issuerKeyHash="8c97c485e472fa52b9126c5bd7f9c59d46316dd4" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>YANthTzbux/E5Z/ip5RU+ElLPSNMrwG/yJUKORSA8so=</DigestValue></Reference></SignedInfo><SignatureValue>rdKjiS0TZfw4b5X0HHra/g1qt0iX2TeFzUIBEvcR2dXe0HLOqUiYYiCtJt94nQS59RvDOM/wIfk+BKHiJtBvfWxyCKWmHct9nZ1uY+nU+r8x/IVKCP+RTC9meeA8ti82lvt12s2ISUadUNAGNchRv7eRvuRhtOJ3JOTzVTuT1Tk=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>uHolVGzRWo3rhdrqyp/o7Zx36SB/Mjpgp1hd9bX4arfoJkEjjE7dEXP75NO2iI+7aGVJ7rrn/j0yQykLi3ZssVvO46S3ALzGa7LqGLH2Z8V8oV+AqQecJYBsjJf6PHdBF5YqRDdXZgWLLNLlejJHpFlrEb77zT93zFxFIvyoZyE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="caf28014390a95c8bf01af4c233d4b49f85494a7e29fe5c41fbbdb3c856d0360" Description="" Url=""><as:assemblyIdentity name="Copy Express.exe" version="1.0.0.0" publicKeyToken="f44d3d6c468e9a4d" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=CARRASCO\CARRASCO</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>MnXCL5SCFfxuxyCQPTC0RRie9hOXPDudfdte+FR2yMM=</DigestValue></Reference></SignedInfo><SignatureValue>j0ramIsfk2eFQtLUQj0eWO1qbEbBN4dR5p/richTu6oUAhJvTEg1SODlT5eTG3dfd4G5DiEBMn8U/SoyGZDZlzJFG0EFN+bl6rNfO7hIrje9uV5IVb/nR5s0l0QrJ3Zll134bOwhHlZz7RKlUQE5pGM2N1zuECfdFS6QGD1HJiw=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>uHolVGzRWo3rhdrqyp/o7Zx36SB/Mjpgp1hd9bX4arfoJkEjjE7dEXP75NO2iI+7aGVJ7rrn/j0yQykLi3ZssVvO46S3ALzGa7LqGLH2Z8V8oV+AqQecJYBsjJf6PHdBF5YqRDdXZgWLLNLlejJHpFlrEb77zT93zFxFIvyoZyE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB3TCCAUagAwIBAgIQS9VY3OUn8YVKU2v7wiC5fzANBgkqhkiG9w0BAQsFADAtMSswKQYDVQQDHiIAQwBBAFIAUgBBAFMAQwBPAFwAQwBBAFIAUgBBAFMAQwBPMB4XDTE4MDgyODAzMTExOFoXDTE5MDgyODA5MTExOFowLTErMCkGA1UEAx4iAEMAQQBSAFIAQQBTAEMATwBcAEMAQQBSAFIAQQBTAEMATzCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAuHolVGzRWo3rhdrqyp/o7Zx36SB/Mjpgp1hd9bX4arfoJkEjjE7dEXP75NO2iI+7aGVJ7rrn/j0yQykLi3ZssVvO46S3ALzGa7LqGLH2Z8V8oV+AqQecJYBsjJf6PHdBF5YqRDdXZgWLLNLlejJHpFlrEb77zT93zFxFIvyoZyECAwEAATANBgkqhkiG9w0BAQsFAAOBgQBVMoaNAZtqPxUilRaBh9WxLUmgYvtzB3y/paXWfrpFR8aCuvEOVuLTLHNav9rRmzP1yCNYqBdAwhiuIx43Y3+u3Zy2IG+MIm6lYHwf/H44jzXPsj6I/ofFfKp/4fqSDBCAM4+o3ojQigeeuYBTuK2gmgyK1k0Ry8FKueiojofVIw==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
